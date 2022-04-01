@@ -1,6 +1,0 @@
-framework module Pods_UIList {
-  umbrella header "Pods-UIList-umbrella.h"
-
-  export *
-  module * { export * }
-}
